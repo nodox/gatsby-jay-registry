@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-jay-registry",
+  "version": "1.0.0",
+  "description": "Registry for Gatsby Manor themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatsbymanor/gatsby-jay-registry.git"
+  },
+  "keywords": [
+    "gatsby",
+    "manor",
+    "themes"
+  ],
+  "author": "Steven Natera",
+  "contributors": [
+    "stefan judis <stefanjudis@gmail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gatsbymanor/gatsby-jay-registry/issues"
+  },
+  "homepage": "https://github.com/gatsbymanor/gatsby-jay-registry#readme"
+}
